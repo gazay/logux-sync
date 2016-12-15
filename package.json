@@ -4,8 +4,9 @@
   "description": "Tool to synchronize events between Logux logs",
   "keywords": [
     "logux",
-    "synchronization",
-    "network"
+    "network",
+    "websocket",
+    "synchronization"
   ],
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
